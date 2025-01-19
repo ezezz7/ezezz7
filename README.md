@@ -1,7 +1,6 @@
 <h1>❄️ José Vítor</h1>
 <p>Full Stack programmer, currently studying Internet Systems at the Federal Institute of Maranhão (IFMA). I have broad interest, familiarity and identification with the area of ​​programming, which I have always been close to. I have been attending university since 2023, participating in the organization and development of extension projects, working as a team, and always seeking to improve my learning and knowledge in general.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezezz7" alt="ezezz7" /></a> </p>
 
 - 💻 Currently working on **Developer's Community**
 
