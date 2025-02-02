@@ -8,6 +8,11 @@
 
 - - -
 
+<div>
+  <a href="https://github.com/ezezz7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=dark"/>
+</div>
+
 <h3 align="left">Connections:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/jv-270492312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/jv-270492312" height="30" width="40" /></a>
