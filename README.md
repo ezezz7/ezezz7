@@ -4,7 +4,7 @@
 
 - 💻 Currently working on **Developer's Community**
 
-- 📚 Currently learning **NestJS**
+- 📚 Currently learning **PHP**
 
 - - -
 
