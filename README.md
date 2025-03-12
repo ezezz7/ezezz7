@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 17px; flex-wrap: wrap;">
   <a href="https://github.com/ezezz7">
     <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=dark&hide_border=true"/>
   </a>
