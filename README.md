@@ -9,7 +9,7 @@
 
 <h2> 🔧 Languages and Tools</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,docker,prisma,nodejs)](https://skillicons.dev)
 
 
 ## 🔗 Social
