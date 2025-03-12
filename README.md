@@ -24,15 +24,16 @@
 
 ## 🔗 Social
 
-<div align="left" style="display: flex; gap: 5px;">
+<div align="left" style="display: flex; gap: 8px;">
   <a href="mailto:josevtrleal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="gmail logo" />
   </a>
   
   <a href="https://www.linkedin.com/in/jv-270492312" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin logo" />
   </a>
 </div>
+
 
 
 
