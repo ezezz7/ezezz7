@@ -8,7 +8,7 @@
 
 <h3 align="left">Connections:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/jv-270492312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/jv-270492312" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/josé-vítor-270492312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/jv-270492312" height="30" width="40" /></a>
 </p>
 
 - - -
