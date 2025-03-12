@@ -56,7 +56,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a>
-    <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=dark&hide_border=true"/>
+    <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=dark&hide_border=true"/>
   </a>
 
   <img height="150em" width="450em" src="https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=dark&hide_border=true"/>
