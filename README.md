@@ -19,13 +19,14 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/ezezz7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=dark&hide_border=true"/>
   </a>
 
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=dark&hide_border=true"/>
 </div>
+
 
 
 
