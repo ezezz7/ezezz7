@@ -13,11 +13,7 @@
 
 # 📊 GitHub Stats:
 
-<div>
-  <a href="https://github.com/ezezz7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=dark"/>
-
-</div>
+ ![]([https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=dark))<br/>
 
 
 
