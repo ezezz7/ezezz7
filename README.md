@@ -7,7 +7,7 @@
 - 📚 Currently learning **PHP**
 
 
-<h2> 🔧 Languages and Tools</h2> 
+<h2> 🔧 Languages / Frameworks</h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,php,docker,prisma,nodejs,adonis,react,postgres,bootstrap,next,nest,nginx,express)](https://skillicons.dev)
 
