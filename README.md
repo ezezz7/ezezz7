@@ -1,5 +1,5 @@
 <h1>❄️ José Vítor</h1>
-<p>Full-Stack Developer, currently studying Internet Systems at the Federal Institute of Maranhão (IFMA). I have broad interest, familiarity and identification with the programing area, which I have always been close to. I have been attending university since 2023, participating in the organization and development of extension projects, working as a team, and always seeking to improve my learning and knowledge in general.</p>
+<p>Full-Stack Developer, currently studying Internet Systems at the Federal Institute of Maranhão (IFMA). I have broad interest, familiarity and identification with the programming area, which I have always been close to. I have been attending university since 2023, participating in the organization and development of extension projects, working as a team, and always seeking to improve my learning and knowledge in general.</p>
 
 
 - 💻 Currently working on **Developer's Community**
