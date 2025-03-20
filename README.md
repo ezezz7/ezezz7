@@ -33,6 +33,7 @@
 </div>
 
 <details open>
+  <summary>📅 Half-Year </summary>
   <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
 </details>
 
