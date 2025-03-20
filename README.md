@@ -29,7 +29,7 @@
 
 <details>
   <summary>📅 Meio Ano</summary>
-  <img src="https://github.com/ezzez7/metrics/blob/main/metrics.plugin.isocalendar.svg" alt="Calendário de Contribuições">
+  <img src="[https://github.com/ezzez7/metrics/blob/main/metrics.plugin.isocalendar.svg](https://github.com/ezezz7/metrics/blob/main/github-metrics.svg)" alt="Calendário de Contribuições">
 </details>
 
 ## 🔗 Social
