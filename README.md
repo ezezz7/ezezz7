@@ -53,6 +53,4 @@
   <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
 
 
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-
 
