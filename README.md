@@ -48,7 +48,7 @@
   <img height="151px" width="369px" src="https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=dark&hide_border=true"/>
 </div>
 
-<div style="justify-center"> <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições"></div>
+<img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
 
 
 
