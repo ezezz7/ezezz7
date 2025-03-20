@@ -32,16 +32,16 @@
   </a>
 </div>
 
-<details open>
-  <summary>📅 Half-Year </summary>
-  <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
-</details>
-
 
 
 
 
 - - -
+
+<details open>
+  <summary>📅 Half-Year </summary>
+  <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
+</details>
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
