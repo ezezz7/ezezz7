@@ -20,13 +20,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
-<details open>
-  <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
-</details>
-
-
-
 ## 🔗 Social
 
 <div align="left" style="display: flex; gap: 8px;">
@@ -38,6 +31,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin logo" />
   </a>
 </div>
+
+<details open>
+  <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
+</details>
+
+
+
 
 
 - - -
