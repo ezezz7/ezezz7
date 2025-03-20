@@ -20,17 +20,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
- ## 📊 Minhas Contribuições
+## 📊 Minhas Contribuições
 
 <details open>
   <summary>📅 Calendário Completo</summary>
-  <img src="https://github.com/ezzez7/metrics/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt="Calendário de Contribuições">
+  <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
 </details>
 
-<details>
-  <summary>📅 Meio Ano</summary>
-  <img src="[https://github.com/ezzez7/metrics/blob/main/metrics.plugin.isocalendar.svg](https://github.com/ezezz7/metrics/blob/main/github-metrics.svg)" alt="Calendário de Contribuições">
-</details>
 
 ## 🔗 Social
 
