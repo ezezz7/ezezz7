@@ -48,10 +48,9 @@
   <img height="151px" width="369px" src="https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=dark&hide_border=true"/>
 </div>
 
-<details open>
-  <summary>📅 Half-Year </summary>
+
+
   <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
-</details>
 
 
 
