@@ -48,6 +48,7 @@
   <img height="151px" width="369px" src="https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=dark&hide_border=true"/>
 </div>
 
+![image](https://github.com/user-attachments/assets/11f9abf7-8dc2-40fa-a320-6cbfc58048f9)
 
 
 
