@@ -1,4 +1,3 @@
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 <h1>❄️ José Vítor</h1>
 <p> Full-Stack Developer, currently studying Internet Systems at the Federal Institute of Maranhão (IFMA). I have broad interest, familiarity and identification with the progrmaming area, which I have always been close to. I have been attending university since 2023, participating in the organization and development of extension projects, working as a team, and always seeking to improve my learning and knowledge in general. </p>
 
@@ -54,5 +53,6 @@
   <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
 
 
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
 
