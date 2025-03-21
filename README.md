@@ -46,7 +46,9 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </p>
-
+<div align="center">
+  <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
+</div>
 
 
 
