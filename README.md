@@ -11,25 +11,25 @@
 <br>
   
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=adonis" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=adonis" width="50" height="50" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" style="margin: 5px;">
+
+
   
   
 </p>
