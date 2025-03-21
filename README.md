@@ -6,7 +6,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezezz7&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF" height="90px" />
 
-  <img height="151px" width="369px" src="https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=transparent&&hide_border=true&title_color=FFFFFF" height="90px"/>
+  <img  src="https://nirzak-streak-stats.vercel.app/?user=ezezz7&theme=transparent&&hide_border=true&title_color=FFFFFF" height="90px"/>
 
 </div>
 
