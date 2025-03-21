@@ -20,11 +20,9 @@
   <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=express" width="50" height="50" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=adonis" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" style="margin: 5px;">
