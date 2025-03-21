@@ -29,10 +29,7 @@
   <img src="https://skillicons.dev/icons?i=adonis" width="40" height="40" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" style="margin: 5px;">
   
   
 </p>
