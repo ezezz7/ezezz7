@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### About
+  ## About
   
 I'm José Vítor, a software developer passionate about technology and clean, effective solutions. I currently work at the Piauí State Administration Secretariat (SEAD-PI), developing and maintaining public administration systems, always focused on user experience and reliable project delivery.
 Alongside this, I teach technology courses at SENAC-PI, which strengthens my technical foundation and reflects my drive for continuous learning and professional growth.
@@ -8,6 +8,7 @@ Alongside this, I teach technology courses at SENAC-PI, which strengthens my tec
 </div>
 
 <br>
+
 
 <div align="center">
   
