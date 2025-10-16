@@ -1,5 +1,14 @@
- 
- 
+<div align="center">
+  
+  ### About
+  
+I'm José Vítor, a software developer passionate about technology and clean, effective solutions. I currently work at the Piauí State Administration Secretariat (SEAD-PI), developing and maintaining public administration systems, always focused on user experience and reliable project delivery.
+Alongside this, I teach technology courses at SENAC-PI, which strengthens my technical foundation and reflects my drive for continuous learning and professional growth.
+
+</div>
+
+<br>
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF" height="180px"/>
@@ -26,10 +35,6 @@
   <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=adonis" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" style="margin: 5px;">
-
-
-  
-  
 </p>
 
 <br>
@@ -43,11 +48,8 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
 </p>
+
 <div align="center">
   <img src="https://github.com/ezezz7/metrics/blob/main/github-metrics.svg" alt="Calendário de Contribuições">
 </div>
-
-
-
