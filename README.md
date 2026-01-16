@@ -2,20 +2,12 @@
   
   ## About
   
-I'm José Vítor, a software developer passionate about technology and clean, effective solutions. I currently work at the Piauí State Administration Secretariat (SEAD-PI), developing and maintaining public administration systems, always focused on user experience and reliable project delivery.
+I'm José Vítor, a software developer passionate about technology and clean, effective solutions. I currently work at Grupo Pensar Educação, developing and maintaining RESTful APIs and e-commerce stores, always focused on user experience and reliable project delivery.
 
 </div>
 
 <br>
 
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ezezz7&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF" height="180px"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezezz7&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF" height="180px"/>
-
-</div>
     
 <br>  
   
@@ -29,7 +21,6 @@ I'm José Vítor, a software developer passionate about technology and clean, ef
   <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=express" width="50" height="50" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" style="margin: 5px;">
   <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" style="margin: 5px;">
